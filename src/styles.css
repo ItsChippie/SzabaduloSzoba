@@ -1,0 +1,6 @@
+body{
+    background-image: url(/assets/images/goku.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:100%;
+}
